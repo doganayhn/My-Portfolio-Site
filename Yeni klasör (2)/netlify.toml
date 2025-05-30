@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/MyProject.html"
-status = 200
